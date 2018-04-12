@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 
-namespace TestApp.Controllers.v1
+namespace EasyShipAPI.Controllers.v1
 {
     [ApiVersion("1.0")]
     [Route("api/[controller]")]

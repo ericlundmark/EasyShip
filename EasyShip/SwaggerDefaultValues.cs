@@ -2,7 +2,7 @@
 using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore.SwaggerGen;
 
-namespace TestApp
+namespace EasyShipAPI
 {
     public class SwaggerDefaultValues : IOperationFilter
     {

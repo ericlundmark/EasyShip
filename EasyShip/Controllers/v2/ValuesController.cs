@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 
-namespace TestApp.Controllers.v2
+namespace EasyShipAPI.Controllers.v2
 {
     [ApiVersion("2.0")]
     [Route("api/[controller]")]
